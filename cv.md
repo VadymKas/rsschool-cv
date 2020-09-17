@@ -65,5 +65,5 @@ IT courses "RS School" (final score is " " from " ").
 
 
 #### LANGUAGES:
-* Russian and Ukrainian - *native.* 
+* Russian and Ukrainian - *native.*  
 * English - *intermediate Level.* 
